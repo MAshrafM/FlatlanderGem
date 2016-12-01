@@ -1,0 +1,48 @@
+.img-wrap {
+    
+    height: 200px;
+    margin: 0 auto 20px;
+    padding: 10px;
+    width: 200px;
+}
+
+.img-thumbnails {
+    margin: 0 auto 10px;
+    width: 200px;
+}
+
+.img-thumbnails .thumbnail {
+    background: #f8f8f8;
+    border: 0;
+    margin-right: 8px;
+    margin-left: 8px;
+    min-height: 50px;
+}
+.well{
+	margin-bottom:0px!important;
+}
+li.small-image {
+    width: 50px;
+}
+
+ul {
+    padding: 0;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover,.btn-primary, .btn-primary:hover {
+    color: #fff;
+    background-color: #ac005f;
+	border:0px;
+}
+a {
+    color: #ac005f;
+}
+.ng-invalid.ng-dirty{
+  border-color:red;
+}
+.ng-valid.ng-dirty{
+  border-color:green;
+}
+li {
+    list-style: none;
+}
